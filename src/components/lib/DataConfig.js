@@ -11,7 +11,7 @@ const dc = {
         title: "Lưu bút của",
         image: "https://img3.gelbooru.com/images/2b/71/2b719bac55def5e7ede5a891748d2e81.jpg",
         content: "Mình là Bắc, một chàng trai đến từ K59A1 của THPT Mộc Lỵ. Chỉ còn vài ngày nữa thôi chúng mình sẽ phải rời xa nhau, rời xa mái trường mến yêu (mặc dù đ yêu cho lắm), rời xa nơi lớp học thân quen.",
-        content2: "Dù tớ với cậu có thể đã quen nhau từ bé, hay mới chỉ gặp nhau từ vài tháng trước; tớ tin chắc rằng chúng ta đã cùng trải qua những ngày tháng đẹp nhất của tuổi học trò. Vậy nên tớ lập ̶(t̶r̶ộ̶m̶) web này như một nơi để cậu có thể bày tỏ những tình cảm thầm kín của mình đối với tớ, cũng như lưu giữ lại những kỉ niệm quý giá của chúng mình. Ấn nút 'Bắt đầu' ở phía dưới để tiếp tục nhé!",
+        content2: "Dù tớ với cậu có thể đã quen nhau từ bé, hay mới chỉ gặp nhau từ vài tháng trước; tớ tin chắc rằng chúng ta đã cùng trải qua những ngày tháng đẹp nhất của tuổi học trò. Vậy nên tớ lập ̶(t̶r̶ộ̶m̶) web này như một nơi để cậu có thể bày tỏ những tình cảm thầm kín của mình đối với tớ, cũng như lưu giữ lại những kỉ niệm quý giá của chúng mình. Form này chỉ có thể được gửi một lần thôi nên mong cậu hãy viết thật chân thành nhé! Ấn nút 'Bắt đầu' ở phía dưới để tiếp tục nhé!",
         button1: "Bắt đầu!",
         button2: "Đọc lại thư của cậu",
     },
