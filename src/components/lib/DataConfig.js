@@ -49,14 +49,14 @@ const dc = {
     memories: {
         title: "Kỉ niệm đáng nhớ nhất của chúng mình?",
         subtitle: "",
-        memoriesError: "Không có gì à....",
+        memoriesError: "*Không có gì à....",
         placeholder: "Kỉ niệm nè...",
     },
     message: {
         title: "Cậu có muốn tâm sự gì với tớ khong?",
         subtitle: "",
-        messageError: "Không có gì sao...",
-        placeholder: "Gửi di nèee...",
+        messageError: "*Nói gì đi nè",
+        placeholder: "Gửi tớ nèee...",
     },
     submit: {
         title: "Vậy là xong rồi nè!!!",
