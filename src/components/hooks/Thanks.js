@@ -37,7 +37,7 @@ const Thanks = ({ show, data, available }) => {
           </CardActionArea>
              {/* Này cậu thay bằng cái gì cũng được nhé */}
             <CardActions sx={{ pl: 2, pr: 2, pt: 2, pb: 2 }}>
-                <Button size="small" color="primary" onClick={() => {window.open("link cua cau", "_blank")}}>
+                <Button size="small" color="primary" onClick={() => {window.open("https://www.facebook.com/BakaAfk/", "_blank")}}>
                 Direct của tớ
               </Button>
             </CardActions>
